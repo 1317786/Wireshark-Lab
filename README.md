@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, we will be creating a Python script designed to crack MD5 hashes. The focus will be on developing a script that can take an MD5 hash input and employ a list of potential plaintext passwords to uncover the original text. This practical exercise serves as an excellent introduction to the vulnerabilities of MD5 hashes and the techniques used for their decryption. <br />
+In this project, we will be exploring how to use Wireshark for sniffing and analyzing network traffic. The goal is to understand the flow of data over unsecured protocols such as FTP and HTTP, which can expose usernames and passwords in plain text. This exercise offers a comprehensive introduction to the basics of network monitoring and packet analysis, demonstrating how easily sensitive information can be intercepted if not properly secured. This setup provides a practical insight into the importance of encryption and secure communication protocols in protecting data integrity and privacy. <br />
 
 
 <h2>Languages and Utilities Used</h2>
