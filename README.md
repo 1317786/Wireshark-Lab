@@ -22,7 +22,7 @@ In this project, we will be exploring how to use Wireshark for sniffing and anal
 
 <p align="center">
 Python script code for MD5 hash cracker using nano text editor: <br/>
-<img src="Python code.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="samplesite.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />Created a .txt file containing list of possible passwords:  <br/>
 <img src="list of passwords.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
