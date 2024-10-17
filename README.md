@@ -25,7 +25,7 @@ Python script code for MD5 hash cracker using nano text editor: <br/>
 <img src="samplesite.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />Created a .txt file containing list of possible passwords:  <br/>
-<img src="list of passwords.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="http filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Generated an MD5 hash tied to the password 'admin': <br/>
