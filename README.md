@@ -29,7 +29,7 @@ Python script code for MD5 hash cracker using nano text editor: <br/>
 <br />
 <br />
 Generated an MD5 hash tied to the password 'admin': <br/>
-<img src="md5 hash example.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="GET request filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Successful verification of code executing and identifying 'admin' as the password stored within the hash:  <br/>
