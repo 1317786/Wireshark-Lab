@@ -56,11 +56,15 @@ Successful verification of code executing and identifying 'admin' as the passwor
 <img src="ftp request arg filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Successful verification of code executing and identifying 'admin' as the password stored within the hash:  <br/>
+<img src="acc info&actions through tcp stream.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 
 <!--
- ```diff
+ ```diff   
 - text in red
 + text in green
 ! text in orange
