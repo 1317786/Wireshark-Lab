@@ -11,9 +11,11 @@ In this project, we will be exploring how to use Wireshark for sniffing and anal
 
 <h2>Takeaways</h2>
 
-- <b>Python Script Development for MD5 Hash Cracking</b>: Successfully developed a Python script that deciphers MD5 hashes to reveal plain text passwords, emphasizing practical applications of cryptographic techniques. Demonstrated proficiency in utilizing Python's hashlib module, enhancing skills in creating security tools and understanding hash function vulnerabilities.
+- <b>Wireshark Packet Sniffing and Analysis</b>: Successfully used Wireshark to capture and analyze network packets, demonstrating the exposure of usernames and passwords transmitted via unencrypted protocols such as FTP and HTTP. This project enhanced understanding of network protocol vulnerabilities and the critical need for secure communications.
 
-- <b>Testing and Verification of Script Functionality</b>: Acquired practical experience by rigorously testing the hash cracker against a custom password list, validating the script’s effectiveness in identifying the correct passwords. This process highlighted the importance of comprehensive testing in software development, ensuring the tool’s functionality and reliability in real-world scenarios.
+- <b>Identification and Analysis of Unsecured Traffic</b>: Gained hands-on experience in identifying and interpreting unsecured traffic patterns, which emphasized the importance of encryption to safeguard data during transmission. This takeaway underscores the significance of deploying secure protocols like HTTPS to prevent data interception and enhance cybersecurity measures.
+
+- <b>Insights into Network Security Measures</b>: Through the direct application of packet sniffing, developed a deeper insight into the practical aspects of cybersecurity, such as the detection of sensitive information in plaintext. This experience highlighted the practical implications of network security, promoting proactive measures to enhance data protection strategies.
 
 
 <h2>Program walk-through:</h2>
