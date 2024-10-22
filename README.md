@@ -21,7 +21,7 @@ In this project, we will be exploring how to use Wireshark for sniffing and anal
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Python script code for MD5 hash cracker using nano text editor: <br/>
+Sample http website that I will put login details into and will be used for packet sniffing through wireshark: <br/>
 <img src="samplesite.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />Created a .txt file containing list of possible passwords:  <br/>
