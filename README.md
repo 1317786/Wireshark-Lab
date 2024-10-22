@@ -24,7 +24,7 @@ In this project, we will be exploring how to use Wireshark for sniffing and anal
 Sample http website that I will put login details into and will be used for packet sniffing through wireshark: <br/>
 <img src="samplesite.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />Created a .txt file containing list of possible passwords:  <br/>
+<br />I used the http filter to narrow the traffic down to show only http packets:  <br/>
 <img src="http filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
