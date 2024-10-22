@@ -28,7 +28,7 @@ Sample http website that I will put login details into and will be used for pack
 <img src="http filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Generated an MD5 hash tied to the password 'admin': <br/>
+I next used the GET request method filter to help me identify the login request made from the sample website: <br/>
 <img src="GET request filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
