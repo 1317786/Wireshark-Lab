@@ -44,7 +44,7 @@ Getting now into FTP packet analysis, I first used a filter to narrow down traff
 <img src="tcp and port filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successful verification of code executing and identifying 'admin' as the password stored within the hash:  <br/>
+Since FTP is the main protocol that is to be analyzed here, I used the FTP filter to show only packets containing the FTP protocol :  <br/>
 <img src="ftp filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
