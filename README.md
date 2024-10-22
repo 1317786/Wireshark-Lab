@@ -36,7 +36,7 @@ To further narrow down the packet search, I used the POST method request filter 
 <img src="POST request filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successful verification of code executing and identifying 'admin' as the password stored within the hash:  <br/>
+After applying all the necessary filters, we find the packet containing the form data and locate the username and password I created and used to login to the sample website within the bottom left hand side of the screenshot:  <br/>
 <img src="UN&P detected.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
