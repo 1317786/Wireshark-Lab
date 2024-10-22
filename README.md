@@ -40,7 +40,7 @@ After applying all the necessary filters, we find the packet containing the form
 <img src="UN&P detected.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successful verification of code executing and identifying 'admin' as the password stored within the hash:  <br/>
+Getting now into FTP packet analysis, I first used a filter to narrow down traffic that should only be coing through port 21 and is either TCP or FTP:  <br/>
 <img src="tcp and port filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
