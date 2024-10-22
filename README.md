@@ -32,7 +32,7 @@ I next used the GET request method filter to help me identify the login request 
 <img src="GET request filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successful verification of code executing and identifying 'admin' as the password stored within the hash:  <br/>
+To further narrow down the packet search, I used the POST method request filter to locate the packet containing the form data from the login page on the website:  <br/>
 <img src="POST request filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
