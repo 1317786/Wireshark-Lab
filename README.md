@@ -52,7 +52,7 @@ I used a ftp response filter to locate all of the reponse codes sent by the serv
 <img src="ftp response filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successful verification of code executing and identifying 'admin' as the password stored within the hash:  <br/>
+Laslty, I use an ftp request argument filter to find any and all requests made by the user:  <br/>
 <img src="ftp request arg filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
