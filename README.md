@@ -56,7 +56,7 @@ Successful verification of code executing and identifying 'admin' as the passwor
 <img src="ftp request arg filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successful verification of code executing and identifying 'admin' as the password stored within the hash:  <br/>
+Selecting one of the ftp packets, I go to view the tcp stream of the packet and within it shows the account info as well as the commands/actions done by the user:  <br/>
 <img src="acc info&actions through tcp stream.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
