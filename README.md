@@ -48,7 +48,7 @@ Since FTP is the main protocol that is to be analyzed here, I used the FTP filte
 <img src="ftp filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successful verification of code executing and identifying 'admin' as the password stored within the hash:  <br/>
+I used a ftp response filter to locate all of the reponse codes sent by the server:  <br/>
 <img src="ftp response filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
