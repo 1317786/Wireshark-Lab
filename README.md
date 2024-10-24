@@ -21,10 +21,10 @@ In this project, we will be exploring how to use Wireshark for sniffing and anal
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Sample http website that I will put login details into and will be used for packet sniffing through wireshark: <br/>
+Sample HTTP website that I will put login details into and will be used for packet sniffing through wireshark: <br/>
 <img src="samplesite.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />I used the http filter to narrow the traffic down to show only http packets:  <br/>
+<br />I used the HTTP filter to narrow the traffic down to show only HTTP packets:  <br/>
 <img src="http filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -48,7 +48,7 @@ Since FTP is the main protocol that is to be analyzed here, I used the FTP filte
 <img src="ftp filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-I used a ftp response filter to locate all of the reponse codes sent by the server:  <br/>
+I used a FTP response filter to locate all of the reponse codes sent by the server:  <br/>
 <img src="ftp response filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -56,7 +56,7 @@ Laslty, I use an ftp request argument filter to find any and all requests made b
 <img src="ftp request arg filter.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Selecting one of the ftp packets, I go to view the tcp stream of the packet and within it shows the account info as well as the commands/actions done by the user:  <br/>
+Selecting one of the FTP packets, I go to view the TCP stream of the packet and within it shows the account info as well as the commands/actions done by the user:  <br/>
 <img src="acc info&actions through tcp stream.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
